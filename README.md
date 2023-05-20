@@ -1,6 +1,6 @@
-# LWC_Basics
+<p align = "center">  LWC_Basics </p>
 
-<p> You can reach my <strong>LWC Basic</strong> codes via this address </p>
+<p align = "center"> You can reach my <strong>LWC Basic</strong> codes via this address </p>
 
 
 
